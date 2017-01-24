@@ -19,7 +19,7 @@ int main(void) {
 	long long i,j;
 	double a,b,c;
 
-	puts("!!!Hello World!!!"); /* prints !!!Hello World!!! */
+	puts("!!!Hola mundo!!!"); /* prints !!!Hello World!!! */
 	printf("Ejecutando %lld millones de operaciones de multiplicacion en coma flotante ", (long long)NUM_OPERACIONES/1000000);
 	fflush(stdout);
 	a=1.0000000001;
